@@ -12,7 +12,7 @@ SharpDust	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin KEYWORD2
+begin	KEYWORD2
 measure	KEYWORD2
 
 #######################################
